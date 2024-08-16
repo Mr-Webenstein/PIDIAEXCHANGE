@@ -104,7 +104,7 @@ img {
 .trade-btn {
     text-decoration: none;
     background: orange;
-    font-size: 48px; /* Adjusted to 48px */
+    font-size: 35px; /* Adjusted to 35px */
     color: white;
     padding: 15px 20px;
     margin-top: 10px;
@@ -124,7 +124,6 @@ img {
     color: white;
     font-size: 35px; /* Adjusted to 35px */
     font-weight: bold;
-    text-align: center;
 }
 
 h2 {
